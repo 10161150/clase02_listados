@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         alumnos.add("Elvis");
         alumnos.add("Carlos");
         alumnos.add("Manuel");
-        alumnos.add("Cesar Machaca");
+        alumnos.add("Carlos Ayma");
 
 
         //Creamos adaptador que usa los datos del Array Alumnos
